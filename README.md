@@ -1,7 +1,12 @@
-# Node.Js : Wheater forecast application 
+# Node.Js : Weather forecast application 
 Node application to fetch weather forecast for given location 
 
 ![](nodejs-icon.png)
+
+## Requirement:
+
+- Create account on `forcast.io` and get your api key 
+- Sample Api -`https://api.darksky.net/forecast/APIKEY/37.8267,-122.4233`
 
 ## Steps to run application:
 
@@ -9,6 +14,7 @@ Node application to fetch weather forecast for given location
 - Go to folder and write below command 
 - `node app.js -address="gurgaon, India"`
 - or `node app.js -address=122001` using zip code
+
 
 ## About Me:
 
